@@ -34,7 +34,7 @@ body {
 
 header {
     background: #16688c; /* Dark header for contrast */
-    color: #110000;
+    color: #ffffff;
     height: 100vh; /* Full viewport height */
     display: flex; /* Use flexbox for centering */
     flex-direction: column; /* Stack items vertically */
